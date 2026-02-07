@@ -1,1 +1,1 @@
-https://captchaapi.hacodev.io.vn/
+https://captchaapi.hacodev.io.vn
